@@ -8,4 +8,3 @@ http
     res.end(`<h1>Hello from DevDeploy! v3</h1><p>GREETING = ${greeting}</p>`);
   })
   .listen(port, () => console.log("Sample app running on port " + port));
-this is not valid javascript(
